@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xusheng/xusheng/github/android-gesture-detectors/sample/build/intermediates/exploded-aar/android-gesture-detectors/library/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d30e73d91a0b6e668f342e3377e918e72673e79c">
+        <dex dex="/Users/xusheng/xusheng/github/android-gesture-detectors/sample/build/intermediates/pre-dexed/debug/classes-ac8e3f2ed39848461731c403f30da91f4bd8ad5b.jar" />
+    </item>
+
+</items>
